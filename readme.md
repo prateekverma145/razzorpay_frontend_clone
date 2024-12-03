@@ -24,11 +24,8 @@ Experiment with layouts, spacing, colors, and more.
 Build a visually appealing interface inspired by Razorpay.
 ## 🚀 Getting Started
 Clone the Repository
-
-bash
-Copy code
-git clone https://github.com/yourusername/razorpay-tailwind-clone.git  
-cd razorpay-tailwind-clone  
+  
+cd razorpay-frontend-clone  
 Install Dependencies (Optional, if using Tailwind CLI or tools)
 
 bash
